@@ -133,7 +133,7 @@ class testViewController: UIViewController {
             case "introvert": introvertNum += 1
             case "ambivert": ambivertNum += 1
             default:print("unknown value")
-            }
+             }
             
         }
         else{
